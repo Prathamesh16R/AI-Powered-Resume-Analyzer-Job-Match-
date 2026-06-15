@@ -218,7 +218,7 @@ FAISS vector search retrieves the most relevant job opportunities.
 
 ### Vector Search
 
-- FAISS
+- FAISS.
 
 ### Authentication
 
